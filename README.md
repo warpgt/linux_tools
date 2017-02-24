@@ -1,6 +1,8 @@
 # linux_tools
 Scripts helps working with linux specialy when you move from windows
 
+***Tested on ChaletOS [a most stable linux distribution i've tried](https://sites.google.com/site/chaletoslinux/home)***
+
 **offline_downloads** downloads needed *.deb files and compress them into zip file - like setup.exe files in windows
 
 Script generate file e.g: *NAME*_install.zip. Script adds *_install.zip* suffix.
