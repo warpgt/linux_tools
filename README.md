@@ -5,7 +5,7 @@ Scripts helps working with linux specialy when you move from windows
 
 Script generate file e.g: *NAME*_install.zip. Script adds *_install.zip* suffix.
 
-When using *offline_install* you only use name before thise suffix.
+When using *offline_install* you only use name before these suffix.
 
 ![alt tag](https://github.com/warpgt/linux_tools/blob/master/download.png)
 
