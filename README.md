@@ -9,4 +9,4 @@ Scripts helps working with linux
 
 ![alt tag](https://github.com/warpgt/linux_tools/blob/master/install.png)
 
-Very simple scripts which do theirs job, but if you have ideas how to improve theme please give me feedback.
+Very simple scripts which do theirs job, but if you have ideas how to improve them please give me feedback.
