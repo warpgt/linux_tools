@@ -3,6 +3,8 @@ Scripts helps working with linux specialy when you move from windows and get use
 
 Scripts use **apt-get** inside. You type software name like when using *apt-get install NAME*
 
+You can download more software using space as separator e.g.: `> NAME1 NAME2` it will produce zip file like *NAME1_NAME2_install.zip*
+
 **offline_downloads.sh** downloads needed \*.deb files and compress them into one zip file (like setup.exe files in windows)
 
 Script generate file e.g: *NAME*_install.zip. Where *NAME* is software name. Script adds *_install* suffix.
